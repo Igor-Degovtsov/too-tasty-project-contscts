@@ -7,16 +7,12 @@
   padding-right: 50px;
 
   background-image: linear-gradient(to bottom, #fff 10%, #fff5f6 10%, #fff5f6 90%);
-}
+  }
 
 .contacts__list {
   @media screen and (min-width: 768px) {
     display: flex;
   }
-}
-
-.list {
-  list-style: none;
 }
 
 .contacts__item {
